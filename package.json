@@ -4,7 +4,8 @@
   "description": "",
   "main": "electron/main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "npx electron-packager . --icon assets/youtube.icns --out=packages"
   },
   "repository": {
     "type": "git",
