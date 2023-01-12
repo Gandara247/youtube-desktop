@@ -1,0 +1,20 @@
+{
+  "name": "youtube-desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gandara247/youtube-desktop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gandara247/youtube-desktop/issues"
+  },
+  "homepage": "https://github.com/Gandara247/youtube-desktop#readme"
+}
