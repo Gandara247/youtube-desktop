@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Gandara247/youtube-desktop/issues"
   },
-  "homepage": "https://github.com/Gandara247/youtube-desktop#readme"
+  "homepage": "https://github.com/Gandara247/youtube-desktop#readme",
+  "devDependencies": {
+    "electron": "^22.0.1"
+  }
 }
