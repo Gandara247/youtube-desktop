@@ -9,5 +9,9 @@ Desenvolvi esse app ao me depara que não tinha um YouTube Desktop para PC.
 - Electron
 - Node/npm
 
+# Obs:
+
+Para criar o executal basta dar o comando $ npm run build 
+
 
 
